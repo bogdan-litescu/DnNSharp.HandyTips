@@ -1,0 +1,5 @@
+﻿
+-- DROP EVERYTHING
+
+IF  EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'{databaseOwner}[{objectQualifier}avtHandyTips_Activations]') AND OBJECTPROPERTY(id, N'IsUserTable') = 1)
+DROP TABLE {databaseOwner}[{objectQualifier}avtHandyTips_Activations]

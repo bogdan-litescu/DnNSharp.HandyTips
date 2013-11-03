@@ -1,0 +1,29 @@
+<dotnetnuke version="3.0" type="Module">
+  <folders>
+    <folder>
+      <name>avt.HandyTips</name>
+      <friendlyname>avt.HandyTips</friendlyname>
+      <foldername>avt.HandyTips</foldername>
+      <modulename>avt.HandyTips</modulename>
+      <description>
+      </description>
+      <version>01.04.01</version>
+      <businesscontrollerclass>avt.HandyTips.HandyTipsController</businesscontrollerclass>
+      <resourcefile>Resources.zip</resourcefile>
+      <files>
+        <file>
+          <name>avt.HandyTips.dll</name>
+        </file>
+        <file>
+          <name>Activation.aspx</name>
+        </file>
+        <file>
+          <name>HandyTips.ascx</name>
+        </file>
+        <file>
+          <name>Uninstall.SqlDataProvider</name>
+        </file>
+      </files>
+    </folder>
+  </folders>
+</dotnetnuke>
