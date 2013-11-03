@@ -7,15 +7,12 @@
       <modulename>avt.HandyTips</modulename>
       <description>
       </description>
-      <version>01.04.01</version>
+      <version>01.05.00</version>
       <businesscontrollerclass>avt.HandyTips.HandyTipsController</businesscontrollerclass>
       <resourcefile>Resources.zip</resourcefile>
       <files>
         <file>
           <name>avt.HandyTips.dll</name>
-        </file>
-        <file>
-          <name>Activation.aspx</name>
         </file>
         <file>
           <name>HandyTips.ascx</name>
